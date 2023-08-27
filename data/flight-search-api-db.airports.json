@@ -1,0 +1,30 @@
+[{
+  "_id": "53af5a36",
+  "city": "Izmir",
+  "_class": "com.flights.flightsearchapi.Airport"
+},
+{
+  "_id": "7e20b6ce",
+  "city": "Dublin",
+  "_class": "com.flights.flightsearchapi.Airport"
+},
+{
+  "_id": "7b7f20bb",
+  "city": "Istanbul",
+  "_class": "com.flights.flightsearchapi.Airport"
+},
+{
+  "_id": "c8cf4aba",
+  "city": "Berlin",
+  "_class": "com.flights.flightsearchapi.Airport"
+},
+{
+  "_id": "491180b8",
+  "city": "Madrid",
+  "_class": "com.flights.flightsearchapi.Airport"
+},
+{
+  "_id": "025f7c36",
+  "city": "Ankara",
+  "_class": "com.flights.flightsearchapi.Airport"
+}]

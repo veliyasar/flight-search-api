@@ -1,0 +1,205 @@
+[{
+  "_id": "d7513699",
+  "departureAirport": {
+    "_id": "53af5a36",
+    "city": "Izmir"
+  },
+  "arrivalAirport": {
+    "_id": "7b7f20bb",
+    "city": "Istanbul"
+  },
+  "departureTime": "25-09-2023",
+  "arrivalTime": "29-09-2023",
+  "price": 550,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "6df20aeb",
+  "departureAirport": {
+    "_id": "53af5a36",
+    "city": "Izmir"
+  },
+  "arrivalAirport": {
+    "_id": "c8cf4aba",
+    "city": "Berlin"
+  },
+  "departureTime": "22-09-2023",
+  "arrivalTime": "28-09-2023",
+  "price": 750,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "8a8e5c07",
+  "departureAirport": {
+    "_id": "c8cf4aba",
+    "city": "Berlin"
+  },
+  "arrivalAirport": {
+    "_id": "491180b8",
+    "city": "Madrid"
+  },
+  "departureTime": "12-09-2023",
+  "arrivalTime": "20-09-2023",
+  "price": 450,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "19e5c1ee",
+  "departureAirport": {
+    "_id": "025f7c36",
+    "city": "Ankara"
+  },
+  "arrivalAirport": {
+    "_id": "53af5a36",
+    "city": "Izmir"
+  },
+  "departureTime": "15-09-2023",
+  "arrivalTime": "21-09-2023",
+  "price": 400,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "dc093f19",
+  "departureAirport": {
+    "_id": "7e20b6ce",
+    "city": "Dublin"
+  },
+  "arrivalAirport": {
+    "_id": "53af5a36",
+    "city": "Izmir"
+  },
+  "departureTime": "09-09-2023",
+  "arrivalTime": "18-09-2023",
+  "price": 900,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "01838912",
+  "departureAirport": {
+    "_id": "491180b8",
+    "city": "Madrid"
+  },
+  "arrivalAirport": {
+    "_id": "7b7f20bb",
+    "city": "Istanbul"
+  },
+  "departureTime": "07-09-2023",
+  "arrivalTime": "10-09-2023",
+  "price": 500,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "edfa52e1",
+  "departureAirport": {
+    "_id": "491180b8",
+    "city": "Madrid"
+  },
+  "arrivalAirport": {
+    "_id": "7e20b6ce",
+    "city": "Dublin"
+  },
+  "departureTime": "08-09-2023",
+  "arrivalTime": "10-09-2023",
+  "price": 600,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "31d4d195",
+  "departureAirport": {
+    "_id": "7e20b6ce",
+    "city": "Dublin"
+  },
+  "arrivalAirport": {
+    "_id": "7b7f20bb",
+    "city": "Istanbul"
+  },
+  "departureTime": "15-09-2023",
+  "arrivalTime": "17-09-2023",
+  "price": 800,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "88c335d1",
+  "departureAirport": {
+    "_id": "025f7c36",
+    "city": "Ankara"
+  },
+  "arrivalAirport": {
+    "_id": "7b7f20bb",
+    "city": "Istanbul"
+  },
+  "departureTime": "20-09-2023",
+  "arrivalTime": "22-09-2023",
+  "price": 300,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "802e55bb",
+  "departureAirport": {
+    "_id": "7b7f20bb",
+    "city": "Istanbul"
+  },
+  "arrivalAirport": {
+    "_id": "025f7c36",
+    "city": "Ankara"
+  },
+  "departureTime": "18-09-2023",
+  "price": 300,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "6bd1fbef",
+  "departureAirport": {
+    "_id": "53af5a36",
+    "city": "Izmir"
+  },
+  "arrivalAirport": {
+    "_id": "025f7c36",
+    "city": "Ankara"
+  },
+  "departureTime": "16-09-2023",
+  "price": 300,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "c8ae1109",
+  "departureAirport": {
+    "_id": "c8cf4aba",
+    "city": "Berlin"
+  },
+  "arrivalAirport": {
+    "_id": "025f7c36",
+    "city": "Ankara"
+  },
+  "departureTime": "12-09-2023",
+  "price": 400,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "889d2650",
+  "departureAirport": {
+    "_id": "7e20b6ce",
+    "city": "Dublin"
+  },
+  "arrivalAirport": {
+    "_id": "c8cf4aba",
+    "city": "Berlin"
+  },
+  "departureTime": "10-09-2023",
+  "price": 200,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+},
+{
+  "_id": "30cb1dad",
+  "departureAirport": {
+    "_id": "c8cf4aba",
+    "city": "Berlin"
+  },
+  "arrivalAirport": {
+    "_id": "53af5a36",
+    "city": "Izmir"
+  },
+  "departureTime": "23-09-2023",
+  "price": 400,
+  "_class": "com.flights.flightsearchapi.model.Flight"
+}]
