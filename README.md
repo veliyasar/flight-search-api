@@ -9,5 +9,3 @@
  *Flights without returnTime are considered to be a roundtrip flight.*
  
  *Setup MongoDB Atlas as in resources>example.yml*
-
- ![Alt Text](https://prnt.sc/40lcM8X1tNzX)
