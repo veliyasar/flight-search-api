@@ -1,4 +1,4 @@
-# Features:
+
 - CRUD methods and REST services
 - Search for a flight between given dates
 - Search for a flight by departure/destination airports
