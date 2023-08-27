@@ -16,12 +16,12 @@ public class AirportService {
     public List<Airport> getAllAirports() {
         return airportRepository.findAll();
     }
+
     public Airport addAirport(Airport airport) {
         // take the first part of UUID for simplicity
         airport.setAirportId(UUID.randomUUID().toString().split("-")[0]);
         return airportRepository.save(airport);
     }
-
 
     public Airport getAirportById(String airportId) {
         return airportRepository.findById(airportId).get();
@@ -38,5 +38,4 @@ public class AirportService {
         existingAirport.setCity(airportRequest.getCity());
         return airportRepository.save(existingAirport);
     }
-
 }

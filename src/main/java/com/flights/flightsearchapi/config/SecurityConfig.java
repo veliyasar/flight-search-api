@@ -18,7 +18,7 @@ public class SecurityConfig {
         return new InMemoryUserDetailsManager(
                 User.withUsername("user")
                         .password("{noop}password") // {noop} bypasses password encoding exception
-//                        .authorities("read")
+                        //.authorities("read")
                         .build()
         );
     }
@@ -27,7 +27,7 @@ public class SecurityConfig {
     SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         return http.authorizeRequests(auth -> {
                     auth.requestMatchers("/secured").authenticated();
-//                    auth.requestMatchers(HttpMethod.DELETE).authenticated();
+                    //auth.requestMatchers(HttpMethod.DELETE).authenticated();
                     auth.anyRequest().permitAll();
                 })
                 // sets up HTTP Basic Authentication with default settings
